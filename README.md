@@ -1,6 +1,6 @@
 - Hi, I’m @aishwaryaachari
 - I’m interested in Video editing,coding and some managing skills.
-- I’m currently pursuing Btech in computer engineering.
+- I’m currently pursuing Bachelors in computer science.
 - I’m looking forward to collaborate on any topic.
 
 
