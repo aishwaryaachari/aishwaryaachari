@@ -37,40 +37,6 @@ Computer Science Student passionate about **Full-Stack Development**, **Data Ana
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aishwaryaachari&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishwaryaachari&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aishwaryaachari&hide_border=true&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aishwaryaachari&theme=tokyo-night" alt="Activity Graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aishwaryaachari&theme=tokyonight&no-frame=true&column=6" alt="GitHub Trophies" />
-</p>
-
----
-
-### Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [PrintHouse](https://github.com/aishwaryaachari/PrintHouse) | Full-stack print shop management application | React, Django, SQLite |
-| [Customer Shopping Behavior Analysis](https://github.com/aishwaryaachari/Customer-Shopping-Behavior-Analysis) | Data analytics and visualization project | Python, Pandas, Matplotlib |
-| [Aisho AI Chat](https://github.com/aishwaryaachari/aisho-ai-chat) | AI-powered chat application | React, Python |
-| [InstaScope](https://github.com/aishwaryaachari/InstaScope) | Instagram analytics tool | Python |
-| [Tech Academy API](https://github.com/aishwaryaachari/tech-academy-api) | RESTful API for an academy platform | Django REST Framework |
-| [Tech Academy WebApp](https://github.com/aishwaryaachari/tech-academy-webapp) | Frontend for the academy platform | React |
-
----
 
 ### Current Goals
 
