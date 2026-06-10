@@ -2,13 +2,11 @@
 
 🎓 Computer Science Student from Mumbai, India · **Full-Stack Developer & Data Analytics Enthusiast**
 
-📧 aishwaryanatrajan579@gmail.com &nbsp;|&nbsp; 🔗 [LinkedIn](https://linkedin.com/in/your-profile)
+📧 aishwaryanatrajan579@gmail.com &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/aishwaryaachari/)
 
 ---
 
-I'm passionate about building digital products that combine **development, design, and data**.
-
-My interests span across **Full-Stack Development**, **Data Analytics**, and **UI/UX Design**. I enjoy creating responsive web applications, analyzing data to uncover insights, and designing user-friendly experiences that solve real-world problems.
+Computer Science Student passionate about **Full-Stack Development**, **Data Analytics**, **UI/UX Design**, and **AI-powered solutions**.
 
 ---
 
@@ -89,6 +87,3 @@ I love combining creativity with technology — whether that's designing an inte
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aishwaryaachari&label=Profile+Views&color=6E40C9&style=flat" alt="Profile Views" />
-</p>
